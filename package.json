@@ -1,6 +1,6 @@
 {
   "name": "@toolz/use-viewport",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom Hook for React that reports on the current viewport height and width and size classification. It also listens for changes to viewport size.",
   "keywords": [
     "Hooks",
@@ -22,7 +22,7 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.2",
-    "@toolz/allow": "^1.0.8",
+    "@toolz/allow": "^1.1.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
